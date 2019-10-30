@@ -1,0 +1,12 @@
+uses
+	CtrlLib,
+	Core/SSL;
+
+file
+	test.h,
+	main.cpp,
+	test.lay;
+
+mainconfig
+	"" = "GUI";
+

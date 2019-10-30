@@ -1,0 +1,5 @@
+LAYOUT(testLayout, 1168, 596)
+	ITEM(Button, goBtn, SetLabel(t_("Go")).SetFont(StdFontZ(13).Bold()).LeftPosZ(12, 1140).TopPosZ(544, 40))
+	ITEM(RichTextView, rtBox, Background(Color(170, 170, 150)).LeftPosZ(12, 1144).TopPosZ(8, 524))
+END_LAYOUT
+
